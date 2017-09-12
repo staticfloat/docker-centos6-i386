@@ -1,4 +1,4 @@
-IMG_NAME=staticfloat/centos-i386:6
+IMG_NAME=staticfloat/centos-i386:centos6
 
 # Default is to build the image, including the bootstrap image
 all: build
